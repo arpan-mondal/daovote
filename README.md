@@ -1,38 +1,5 @@
 # Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat
 
-Read the full tutorial here: [**>> Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat **](https://daltonic.github.io)
-
-This example shows Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat:
-
-![Poll Lisiting](./screenshots/0.png)
-
-<center><figcaption>Poll Listing</figcaption></center>
-
-![Poll Listing](./screenshots/1.png)
-
-<center><figcaption>Poll Details with Candidates</figcaption></center>
-
-![Poll Group Chat](./screenshots/2.gif)
-
-<center><figcaption>Poll Group Chat</figcaption></center>
-
-## Technology
-
-This demo uses:
-
-- Metamask
-- Hardhat
-- Infuria
-- ReactJs
-- Tailwind CSS
-- Solidity
-- EthersJs
-- Faucet
-
-## Running the demo
-
-To run the demo follow these steps:
-
 1. Clone the project with the code below.
 
    ```sh
@@ -61,12 +28,6 @@ To run the demo follow these steps:
 6. Add some hardhat accounts, connect your wallet and interact with the app.
    <br/>
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/dappVote/issues). We're here to help ✌️
-Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEwRt776FXbYgWm6-OBFiUu6zTeOgRbXXyI/edit?usp=sharing).
-
-## Useful links
 
 - 🏠 [Website](https://dappmentors.org/)
 - ⚽ [Metamask](https://metamask.io/)
@@ -77,4 +38,3 @@ Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEw
 - 🎅 [TypeScript](https://www.typescriptlang.org/)
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [EthersJs](https://docs.ethers.io/v5/)
-- ✨ [Live Demo](https://dapp-vote-three.vercel.app/)
